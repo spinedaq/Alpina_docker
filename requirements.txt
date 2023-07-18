@@ -1,0 +1,9 @@
+pandas==1.5.3
+explainerdashboard @ git+https://github.com/Rmejiaz/explainerdashboard@e158c45ed47fbb414536ff4f0675f5f14202d943
+numpy==1.23.5
+pickleshare==0.7.5
+Pillow==9.4.0
+pipx==1.1.0
+scikit-learn==1.2.1
+joblib==1.2.0
+lightgbm==3.3.5
